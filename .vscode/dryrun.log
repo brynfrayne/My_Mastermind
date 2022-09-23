@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/brynfrayne/Documents/Web-Development/Qwasar/myMastermind/bryn_mastermind'
+gcc -O -c my_mastermind.c
+gcc -O -c my_functions.c
+gcc -o my_mastermind my_mastermind.o my_functions.o
+make: Leaving directory `/Users/brynfrayne/Documents/Web-Development/Qwasar/myMastermind/bryn_mastermind'
+ 
