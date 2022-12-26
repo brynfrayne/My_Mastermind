@@ -1,17 +1,19 @@
-Mastermind
-Task
+<h1>Mastermind</h1>
+
+<h2>Task</h2>
 The task of this project is to implement the classic game of Mastermind. The user will have to guess the secret code, which consists of four integers between 1 and 7. The user will have ten attempts to guess the code correctly.
 
-Description
+<h2>Description</h2>
 The project is written in C and consists of a main function that handles the gameplay and several helper functions to validate user input, generate the secret code, and check the user's guess against the secret code.
 
-Installation
+<h2>Installation</h2>
 To install the project, follow these steps:
 
 Clone the repository: git clone https://github.com/[USERNAME]/my_mastermind.git
 Navigate to the project directory: cd my_mastermind
 Compile the project: make
-Usage
+
+<h2>Usage</h2>
 To start the game, run the following command:
 
 <code>
